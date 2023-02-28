@@ -1,0 +1,16 @@
+.container {
+    width: 100%;
+    margin-top: 325px;
+
+}
+
+.grid {
+    float: left;
+    width: 20%;
+    transform: translate(125%);
+}
+
+img {
+    width: 175px;
+    height: 175px;
+}
